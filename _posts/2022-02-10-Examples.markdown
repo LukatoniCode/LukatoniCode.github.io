@@ -13,7 +13,7 @@ tags: [jekyll, sample, example post]
 # thumbnail image for post
 img: ":post_pic1.jpg"
 # disable comments on this page
-#comments_disable: true
+comments_disable: false
 
 # publish date
 date: 2022-02-10 08:11:06 +0900
