@@ -59,7 +59,7 @@ greetings_replace: "$site_greetings"
 welcome_replace: "$site_welcome"
 
 # replace text with data.lang[language].constants.sample
-sample_replace: "8664"
+sample_replace: "$site_sample"
 
 ###########################################################
 #                Search
