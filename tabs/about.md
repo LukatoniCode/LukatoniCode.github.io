@@ -38,7 +38,7 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
+I am Lukatoni and this is a page to keep track of my projects. Hope u enjoy.
 {{ website_info_text_first }}
 
 {{ website_info_text_second }}
