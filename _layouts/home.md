@@ -35,7 +35,7 @@ layout: default
     </div>
   </div>
   <div class="home-intro-text markdown-style">
-    {{ content }}
+    {{ This is a blog for my projects. }}
   </div>
 </div>
 
