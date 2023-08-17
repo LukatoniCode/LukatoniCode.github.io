@@ -11,7 +11,7 @@ category: Blog
 # multiple tag entries are possible
 tags: [Blog]
 # thumbnail image for post
-img: ":post_pic3.jpg"
+img: ":R.jpg"
 # disable comments on this page
 #comments_disable: true
 
