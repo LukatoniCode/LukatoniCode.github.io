@@ -172,13 +172,16 @@ page_data:
         ```
     - type: id_home
       project_name: "Kilo text editor"
-      project_excerpt: "Minimal 1kb text editor for cmd"
-      img: ":project1_thumb.jpg"
-      img_title: "img title1"
-      date: "2021-03-13"
+      project_excerpt: "Minimal text editor for cmd"
+      #img: ":project1_thumb.jpg"
+      #img_title: "img title1"
+      date: "2024-03-13"
       post: |
-      minimal text editor for cmd. It has less than 1000 lines of code that does not depend on ncurses and has support for syntax highlight and search feature.
-      it was made following this [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html).
+        # Kilo text editor
 
-      ![image](:project3_thumb.png){:data-align="center"}
+        minimal text editor for cmd. It has less than 1000 lines of code that does not depend on ncurses and has support for syntax highlight and search feature.
+        it was made following this [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html).
+
+        ![image](:project3_thumb.png){:data-align="center"}
+      
       
