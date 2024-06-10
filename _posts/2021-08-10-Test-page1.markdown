@@ -7,9 +7,9 @@ title: Croatia mod for Unciv
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: Blog
 # multiple tag entries are possible
-tags: [Unciv, Croatia_mod, Finished]
+tags: [Unciv, Croatia_mod, Finished, Blog]
 # thumbnail image for post
 img: ":circle_Croatia.png"
 # disable comments on this page
