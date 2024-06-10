@@ -171,19 +171,6 @@ page_data:
           print(i)
         ```
     - type: id_home
-      project_name: "Kilo text editor"
-      project_excerpt: "Minimal text editor for cmd"
-      #img: ":project1_thumb.jpg"
-      #img_title: "img title1"
-      date: "2024-03-13"
-      post: |
-        # Kilo text editor
-
-        minimal text editor for cmd. It has less than 1000 lines of code that does not depend on ncurses and has support for syntax highlight and search feature.
-        it was made following this [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html).
-
-        ![image](:project3_thumb.png){:data-align="center"}
-      - type: id_home
       project_name: "Unciv Croatia"
       project_excerpt: "Croatian civ for Unciv"
       #img: ":project1_thumb.jpg"
@@ -203,5 +190,18 @@ page_data:
         Adriatic Trade Routes: Exploit strategic maritime trade routes along the beautiful Adriatic coast to establish economic dominance.
 
         Get it in the mod store or [here](https://github.com/LukatoniCode/croatia-civ)
+    - type: id_home
+      project_name: "Kilo text editor"
+      project_excerpt: "Minimal text editor for cmd"
+      #img: ":project1_thumb.jpg"
+      #img_title: "img title1"
+      date: "2024-03-13"
+      post: |
+        # Kilo text editor
+
+        minimal text editor for cmd. It has less than 1000 lines of code that does not depend on ncurses and has support for syntax highlight and search feature.
+        it was made following this [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html).
+
+        ![image](:project3_thumb.png){:data-align="center"}
       
       
