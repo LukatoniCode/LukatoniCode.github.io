@@ -36,8 +36,13 @@ date: 2023-07-21 12:35:04 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+#published: false
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
+As a fervent admirer of strategy games and a devotee of Croatian culture, I’ve embarked on an ambitious project: to create a mod for Unciv that introduces Croatia as a playable civilization. This blog post marks the beginning of what I hope will be an enriching journey into game development and historical exploration.
+
+Why Croatia?
+
+Croatia’s rich tapestry of history, culture, and natural beauty makes it a perfect candidate for Unciv’s diverse roster of civilizations. From the ancient walls of Dubrovnik to the pioneering spirit of its people, Croatia has much to offer on the digital battlefield.
