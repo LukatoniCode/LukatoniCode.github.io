@@ -183,5 +183,25 @@ page_data:
         it was made following this [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html).
 
         ![image](:project3_thumb.png){:data-align="center"}
+      - type: id_home
+      project_name: "Unciv Croatia"
+      project_excerpt: "Croatian civ for Unciv"
+      #img: ":project1_thumb.jpg"
+      #img_title: "img title1"
+      date: "2024-03-13"
+      post: |
+        #Croatian civ for Unciv
+
+        Embark on a journey through the ages with the “Croatian civ” mod, an open-source addition to the beloved strategy game UnCiv. 
+        This mod introduces Croatia, the land of a thousand islands and rich history, as a fully playable civilization.
+
+        Features:
+
+        Cultural Landmarks: Build the iconic ‘Walls of Dubrovnik’ and ‘Zagreb Cathedral’ to boost your civilization’s defense and culture.
+        Historical Leaders: Lead your nation to glory under the guidance of revered figures like King Tomislav, the first king of Croatia.
+        Croatian Language Pack: Immerse yourself in the Croatian experience with a full translation of game dialogues and descriptions.
+        Adriatic Trade Routes: Exploit strategic maritime trade routes along the beautiful Adriatic coast to establish economic dominance.
+
+        ![image](:project4_thumb.png){:data-align="center"}
       
       
