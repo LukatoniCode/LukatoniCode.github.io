@@ -170,6 +170,22 @@ page_data:
         for i in range(5, 10):
           print(i)
         ```
+    - type: id_school
+      project_name: "Arduino mini PC"
+      project_excerpt: "Small CMD computer made with 2 Arduino Unos"
+      #img: ":project1_thumb.jpg"
+      #img_title: "img title1"
+      date: "2023-01-14"
+      post: |
+        #Arduino mini PC
+
+        Small Pc based on Arduino Uno. Uses VGA for video display and USB for input.
+
+        One arduino acts as the brain of the whole computer while the other controls the input(keyboard)
+
+        it's capable of some programming as it has a programming language similar to old macintosh computers. 
+
+        ![image](:project4_thumb.png){:data-align="center"}
     - type: id_home
       project_name: "Unciv Croatia"
       project_excerpt: "Croatian civ for Unciv"
@@ -192,14 +208,14 @@ page_data:
         Get it in the mod store or [here](https://github.com/LukatoniCode/croatia-civ)
     - type: id_home
       project_name: "Kilo text editor"
-      project_excerpt: "Minimal text editor for cmd"
+      project_excerpt: "Minimal text editor for CMD"
       #img: ":project1_thumb.jpg"
       #img_title: "img title1"
       date: "2024-03-13"
       post: |
         # Kilo text editor
 
-        minimal text editor for cmd. It has less than 1000 lines of code that does not depend on ncurses and has support for syntax highlight and search feature.
+        minimal text editor for CMD. It has less than 1000 lines of code that does not depend on ncurses and has support for syntax highlight and search feature.
         it was made following this [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html).
 
         ![image](:project3_thumb.png){:data-align="center"}
