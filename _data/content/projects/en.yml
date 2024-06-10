@@ -180,7 +180,7 @@ page_data:
       minimal text editor for cmd. It has less than 1000 lines of code that does not depend on ncurses and has support for syntax highlight and search feature.
       it was made following this [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html).
 
-      ![image](:project3_thumb.jpg){:data-align="center"}
+      ![image](:project3_thumb.png){:data-align="center"}
 
-      ![image](:project4_thumb.jpg){:data-align="center"}
+      ![image](:project4_thumb.png){:data-align="center"}
       
