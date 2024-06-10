@@ -11,7 +11,7 @@ category: auto generated
 # multiple tag entries are possible
 tags: [Unciv, Croatia_mod, WIP]
 # thumbnail image for post
-img: ":croatia-civ.png"
+img: ":circle_Croatia.png"
 # disable comments on this page
 comments_disable: true
 
