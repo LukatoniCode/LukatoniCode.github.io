@@ -5,7 +5,7 @@
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    info: "Project page"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
@@ -15,12 +15,12 @@ page_data:
     - title: "cheatsheet"
       type: id_cheatsheet
       color: "gray"
-    #- title: "Picture"
-      #type: id_picture
-      #color: "#62b462"
-    #- title: "Quote"
-     # type: id_quote
-      #color: "#2FD0ED"
+    - title: "School project"
+      type: id_school
+      color: "#62b462"
+    - title: "Home project"
+      type: id_home
+      color: "#2FD0ED"
 
   list:
     # cheatsheet
@@ -170,3 +170,15 @@ page_data:
         for i in range(5, 10):
           print(i)
         ```
+    - type: id_home
+      project_name: "Kilo text editor"
+      project_excerpt: "Minimal 1kb text editor for cmd"
+      img: ":project1_thumb.jpg"
+      img_title: "img title1"
+      date: "2021-03-13"
+      post: |
+      minimal text editor for cmd. It has less than 1000 lines of code that does not depend on ncurses and has support for syntax highlight and search feature.
+      it was made following this [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html).
+
+      ![image](:project3_thumb.jpg){:data-align="center"}
+      
