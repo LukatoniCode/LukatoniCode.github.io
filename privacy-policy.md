@@ -38,7 +38,7 @@ search_engine_exclude: true
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
+Cookie consent form  is just made for future use this website doesn't collect any data.
 {{ page_title_text }}
 
 {{ website_info_text_first | replace: website_greeting_text, '' }}
