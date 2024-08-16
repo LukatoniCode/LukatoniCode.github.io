@@ -223,7 +223,7 @@ page_data:
     - type: id_home
       project_name: "friends info webapp"
       project_excerpt: "Ruby on rails friends info webapp"
-      #img: ":ruby.jpg"
+      #img: ":ruby.png"
       #img_title: "img title1"
       date: "2024-08-16"
       post: |
