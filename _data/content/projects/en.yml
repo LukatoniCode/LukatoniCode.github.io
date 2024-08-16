@@ -219,5 +219,17 @@ page_data:
         it was made following this [tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html).
 
         ![image](:project3_thumb.png){:data-align="center"}
+    
+    - type: id_home
+      project_name: "friends info webapp"
+      project_excerpt: "Ruby on rails friends info webapp"
+      #img: ":ruby.jpg"
+      #img_title: "img title1"
+      date: "2024-08-16"
+      post: |
+        # Ruby on rails friends info webapp
+
+        A web app made with Ruby on rails where u can log in make a friends list and add info about every friend.
+        You can look at the code on my [Github](https://github.com/LukatoniCode/Friends_app_rails)
       
       
